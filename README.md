@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![YC_4](https://user-images.githubusercontent.com/66239314/162552949-73d03fe3-613d-4ea2-99d8-fed2b918d8dd.png)
-![Mask Group](https://user-images.githubusercontent.com/66239314/162552956-7d2a7dd0-19b9-4b04-b24d-b9842becec81.png)
+![YC_5](https://user-images.githubusercontent.com/66239314/162553491-7344b043-e648-425b-8d13-907af43bf19d.png)
 
 
 <!--
