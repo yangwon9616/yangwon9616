@@ -1,7 +1,6 @@
 # Make something people want
 
-![YC_6](https://user-images.githubusercontent.com/66239314/162553529-1fda48ff-0204-4631-a441-53c7a58388c9.png)
-![Mask Group2](https://user-images.githubusercontent.com/66239314/162553564-8949e73a-0586-4358-a4c4-e743df5c8f4a.png)
+![Group 143](https://user-images.githubusercontent.com/66239314/162553662-d4900eba-5a9e-4e95-b015-dd4e79eccd38.png)
 
 
 <!--
