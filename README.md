@@ -1,4 +1,4 @@
-### Hi there 👋
+## Make something people want
 
 ![YC_5](https://user-images.githubusercontent.com/66239314/162553491-7344b043-e648-425b-8d13-907af43bf19d.png)
 
