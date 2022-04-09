@@ -1,7 +1,6 @@
-## Make something people want
+# Make something people want
 
-![YC_5](https://user-images.githubusercontent.com/66239314/162553491-7344b043-e648-425b-8d13-907af43bf19d.png)
-
+![YC_6](https://user-images.githubusercontent.com/66239314/162553529-1fda48ff-0204-4631-a441-53c7a58388c9.png)
 
 <!--
 **yangwon9616/yangwon9616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
